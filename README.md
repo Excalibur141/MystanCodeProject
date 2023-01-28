@@ -2,7 +2,7 @@
 Hello there!\
 This repository holds my programming projects done during the period of stanCode SC101 course.
 
-Watch my [DEMO VIDEOS!]()
+Watch my [DEMO VIDEOS!](https://youtube.com/playlist?list=PLLU4rvGWoowG1LHr3UzvjyVt83wjP0ih6)
 
 ## Project Source Codes:
 * [My Drawing](https://github.com/Excalibur141/SC-Project/blob/main/my_drawing/my_drawing.py)
